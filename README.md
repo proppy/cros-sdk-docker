@@ -1,5 +1,7 @@
 # cros-sdk docker image
 
+Docker image for [Chromium OS](http://www.chromium.org/chromium-os) SDK.
+
 ## Building
 
 ```
